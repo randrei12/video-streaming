@@ -1,0 +1,1 @@
+Simple video stream in nodejs. Create a video.mp4 in the root and run ```npm install``` to get started.
